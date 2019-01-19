@@ -18,7 +18,7 @@ def merge_in_order(seq_a, seq_b):
 
 
 if __name__ == "__main__":
-    print("There is possibility to pass a path to file containing data as a first argument")
+    print("There is possibility of passing a path to file containing data as a first argument")
     if len(sys.argv) > 2:
         print('Wrong Invocation! Pass a path to file or do not pass anything')
     else:
