@@ -113,6 +113,7 @@ FIBO | [Fibonacci Numbers](./AlgorithmicHeights/fibo/fibo.py)
 INS | [Insertion Sort](./AlgorithmicHeights/ins/ins.py)
 MER | [Merge Two Sorted Arrays](./AlgorithmicHeights/mer/mer.py)
 BINS | [Binary Search](./AlgorithmicHeights/bins/bins.py)
+MS | [Merge Sort](./AlgorithmicHeights/ms/ms.py)
 </center>
 
 ## Bioinformatics Armory
