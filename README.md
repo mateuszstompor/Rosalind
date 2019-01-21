@@ -115,6 +115,7 @@ MER | [Merge Two Sorted Arrays](./AlgorithmicHeights/mer/mer.py)
 BINS | [Binary Search](./AlgorithmicHeights/bins/bins.py)
 MS | [Merge Sort](./AlgorithmicHeights/ms/ms.py)
 MAJ | [Majority Element](./AlgorithmicHeights/maj/maj.py)
+HEA | [Building a Heap](./AlgorithmicHeights/hea/hea.py)
 </center>
 
 ## Bioinformatics Armory
