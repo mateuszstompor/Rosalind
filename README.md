@@ -20,6 +20,7 @@ PROT | [Translating RNA into Protein](./BioinformaticsStronghold/prot/prot.py)
 SUBS | [Finding a Motif in DNA](./BioinformaticsStronghold/subs/subs.py)
 ORF | [Open Reading Frames](./BioinformaticsStronghold/orf/orf.py)
 PERM | [Enumerating Gene Orders](./BioinformaticsStronghold/perm/perm.py)
+PRTM | [Calculating Protein Mass](./BioinformaticsStronghold/prtm/prtm.py)
 <!---    
 FIB | Rabbits and Recurrence Relations     
 IPRB | Mendel's First Law  
@@ -31,7 +32,6 @@ LCSM | Finding a Shared Motif
 LIA | Independent Alleles  
 MPRT | Finding a Protein Motif  
 MRNA | Inferring mRNA from Protein 
-PRTM | Calculating Protein Mass  
 REVP | Locating Restriction Sites  
 SPLC | RNA Splicing  
 LEXF | Enumerating k-mers Lexicographically  
