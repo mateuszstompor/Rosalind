@@ -21,6 +21,7 @@ SUBS | [Finding a Motif in DNA](./BioinformaticsStronghold/subs/subs.py)
 ORF | [Open Reading Frames](./BioinformaticsStronghold/orf/orf.py)
 PERM | [Enumerating Gene Orders](./BioinformaticsStronghold/perm/perm.py)
 PRTM | [Calculating Protein Mass](./BioinformaticsStronghold/prtm/prtm.py)
+FIB | [Rabbits and Recurrence Relations](./BioinformaticsStronghold/fib/fib.py)
 <!---    
 FIB | Rabbits and Recurrence Relations     
 IPRB | Mendel's First Law  
