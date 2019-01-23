@@ -118,6 +118,7 @@ MS | [Merge Sort](./AlgorithmicHeights/ms/ms.py)
 MAJ | [Majority Element](./AlgorithmicHeights/maj/maj.py)
 HEA | [Building a Heap](./AlgorithmicHeights/hea/hea.py)
 HS | [Heap Sort](./AlgorithmicHeights/hs/hs.py)
+INV | [Counting Inversions](./AlgorithmicHeights/inv/inv.py)
 </center>
 
 ## Bioinformatics Armory
