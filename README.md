@@ -22,10 +22,10 @@ ORF | [Open Reading Frames](./BioinformaticsStronghold/orf/orf.py)
 PERM | [Enumerating Gene Orders](./BioinformaticsStronghold/perm/perm.py)
 PRTM | [Calculating Protein Mass](./BioinformaticsStronghold/prtm/prtm.py)
 FIB | [Rabbits and Recurrence Relations](./BioinformaticsStronghold/fib/fib.py)
+CONS | [Consensus and Profile](./BioinformaticsStronghold/cons/cons.py)
 <!---    
 FIB | Rabbits and Recurrence Relations     
 IPRB | Mendel's First Law  
-CONS | Consensus and Profile  
 FIBD | Mortal Fibonacci Rabbits  
 GRPH | Overlap Graphs  
 IEV | Calculating Expected Offspring  
