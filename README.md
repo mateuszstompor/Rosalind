@@ -120,6 +120,7 @@ HEA | [Building a Heap](./AlgorithmicHeights/hea/hea.py)
 HS | [Heap Sort](./AlgorithmicHeights/hs/hs.py)
 INV | [Counting Inversions](./AlgorithmicHeights/inv/inv.py)
 2SUM | [2SUM](./AlgorithmicHeights/2sum/2sum.py)
+3SUM | [3SUM](./AlgorithmicHeights/3sum/3sum.py)
 </center>
 
 ## Bioinformatics Armory
